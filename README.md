@@ -2,7 +2,7 @@
     <img src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif" alt="github 3d icon" height="200">
 </div>
 <div align=center>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=000000&center=true&vCenter=true&width=500&lines=Hi!+I'm+Pablo+Piña;Java-and-Spring-Developer;" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&pause=500&color=84EAFF&center=true&vCenter=true&width=500&lines=Hi!+I'm+Pablo+Piña;Java-and-Spring-Developer;" alt="Typing SVG" /></a>
 </div>
 
 
