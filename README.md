@@ -9,7 +9,7 @@
 - 🔭 I am currently looking for a job
 
 - 🌱 I have knowledge in **Java, Spring, SpringBoot, JSP, JPA, Servlet, Hibernate, Api Restful, SQL, UML, Git..**
-- 
+
 
 ## 🛠️ Tools
 
